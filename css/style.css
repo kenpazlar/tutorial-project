@@ -1,0 +1,17 @@
+body {
+ font-family: 'Roboto', sans-serif;
+ text-align: center;
+}
+
+
+h1,
+h2,
+h3 {
+ font-family: 'Oswald", sans-serif;
+  
+}
+
+.container-fluid {
+ padding: 0;
+}
+
